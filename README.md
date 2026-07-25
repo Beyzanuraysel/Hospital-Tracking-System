@@ -37,7 +37,7 @@ Uygulama üzerinden;
 
 ### 📊 İstatistik Ekranı
 
-![Statistics](screenshots/İstatistik(1).png)
+![Statistics](screenshots/İstatistik.png)
 
 ---
 
