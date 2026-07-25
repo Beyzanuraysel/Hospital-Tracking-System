@@ -8,18 +8,22 @@ This application allows users to manage patient records through a simple desktop
 
 ## 📸 Screenshots
 
-### Login & Register
-![Login](screenshots/KayıtveGiriş.png)
+### 🔐 Giriş ve Kayıt Ekranı
+
+<p align="center">
+<img src="screenshots/KayıtveGiriş.png" width="800">
+</p>
 
 ### 🩺 Hasta Yönetim Paneli
 
 <p align="center">
 <img src="screenshots/HastaKayıtAnaEkran.png" width="800">
 </p>
-### Statistics
+### 📊 İstatistik Ekranı
 
-![Statistics](screenshots/İstatistik.png)
-
+<p align="center">
+<img src="screenshots/İstatistik.png" width="800">
+</p>
 ---
 
 ## ✨ Features
