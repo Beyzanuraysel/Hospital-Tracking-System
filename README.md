@@ -1,126 +1,120 @@
 # 🏥 Hospital Tracking System
 
-Hospital Tracking System, **C# Windows Forms** ve **SQL Server** kullanılarak geliştirilen masaüstü tabanlı bir hasta yönetim uygulamasıdır.
+Desktop Hospital Management System developed with **C# Windows Forms**, **SQL Server** and **ADO.NET**.
 
-Uygulama; kullanıcı giriş sistemi, hasta kayıt yönetimi, veritabanı işlemleri ve temel istatistik ekranlarını içermektedir.
-
----
-
-## 📖 Proje Hakkında
-
-Bu proje, hastane otomasyon sistemlerinin temel çalışma mantığını öğrenmek amacıyla geliştirilmiştir.
-
-Uygulama üzerinden;
-
-- Hasta kayıtları oluşturulabilir.
-- Hasta bilgileri güncellenebilir.
-- Hasta kayıtları silinebilir.
-- Kayıtlı hastalar listelenebilir.
-- Hasta istatistikleri görüntülenebilir.
-- Kullanıcı kayıt ve giriş işlemleri gerçekleştirilebilir.
+This application allows users to manage patient records through a simple desktop interface including authentication, CRUD operations and statistical reporting.
 
 ---
 
-## 📷 Uygulama Görselleri
+## 📸 Screenshots
 
-### 🔐 Giriş ve Kayıt Ekranı
+### Login & Register
 
 ![Login](screenshots/KayıtveGiriş.png)
 
----
-
-### 🩺 Hasta Yönetim Paneli
+### Patient Management
 
 ![Main](screenshots/HastaKayıtAnaEkran.png)
 
----
-
-### 📊 İstatistik Ekranı
+### Statistics
 
 ![Statistics](screenshots/İstatistik.png)
 
 ---
 
-## 🚀 Özellikler
+## ✨ Features
 
-- 🔐 Kullanıcı Giriş Sistemi
-- 👤 Kullanıcı Kayıt Sistemi
-- ➕ Hasta Ekleme
-- 📝 Hasta Güncelleme
-- ❌ Hasta Silme
-- 📋 Hasta Listeleme
-- 🔍 Hasta Bilgilerini Görüntüleme
-- 📊 Hasta İstatistikleri
-- 🗄️ SQL Server Veritabanı Bağlantısı
-- ⚙️ Stored Procedure Kullanımı
-- 📑 DataGridView ile Veri Listeleme
-
----
-
-## 🛠️ Kullanılan Teknolojiler
-
-| Teknoloji | Açıklama |
-|-----------|----------|
-| C# | Programlama Dili |
-| Windows Forms | Masaüstü Arayüz |
-| .NET Framework | Uygulama Altyapısı |
-| SQL Server | Veritabanı |
-| ADO.NET | Veritabanı İşlemleri |
-| SQL Stored Procedures | Veritabanı Operasyonları |
+- User Login
+- User Registration
+- Add Patient
+- Update Patient
+- Delete Patient
+- List Patients
+- Patient Statistics
+- SQL Server Database
+- Stored Procedures
+- DataGridView Integration
 
 ---
 
-## 🎯 Projenin Amacı
+## 🛠 Technologies
 
-Bu proje ile;
-
-- C# Windows Forms uygulama geliştirme
-- SQL Server veritabanı kullanımı
-- ADO.NET ile veritabanı bağlantısı
-- CRUD (Create, Read, Update, Delete) işlemleri
-- Stored Procedure kullanımı
-- Masaüstü uygulama geliştirme
-
-konularında deneyim kazanılması amaçlanmıştır.
+- C#
+- Windows Forms
+- .NET Framework
+- SQL Server
+- ADO.NET
+- Stored Procedures
 
 ---
 
-## 💡 Öğrenilen Kazanımlar
+## 📂 Project Structure
 
-Bu proje geliştirilirken;
-
-- SQL Server bağlantısı kurma
-- ADO.NET kullanımı
-- Stored Procedure oluşturma ve kullanma
-- DataGridView işlemleri
-- ComboBox veri bağlama
-- Login sistemi geliştirme
-- Windows Forms tasarımı
-- Veritabanı odaklı masaüstü uygulama geliştirme
-
-konularında deneyim kazanılmıştır.
+```
+HastaTakipSistemi
+│
+├── Forms
+├── SQL Server Database
+├── Stored Procedures
+├── Resources
+├── Screenshots
+└── README.md
+```
 
 ---
 
-## 🔄 Geliştirilmesi Planlanan Özellikler
+## ⚙️ Installation
 
-- 🔍 Hasta arama sistemi
-- 📅 Randevu yönetimi
-- 👨‍⚕️ Doktor yönetim paneli
-- 💊 İlaç takip sistemi
-- 📈 Grafik destekli istatistik ekranı
-- 📄 PDF rapor oluşturma
-- 🔒 Rol bazlı kullanıcı yetkilendirme
+Clone the repository
+
+```bash
+git clone https://github.com/Beyzanuraysel/HastaTakipSistemi.git
+```
+
+Open the solution file
+
+```
+HastaTakipSistemi.sln
+```
+
+Configure SQL Server connection string and run the project.
 
 ---
 
-## 👩‍💻 Geliştirici
+## 🎯 What I Learned
+
+During this project I improved my knowledge of:
+
+- Windows Forms Development
+- SQL Server
+- ADO.NET
+- CRUD Operations
+- Stored Procedures
+- DataGridView
+- Desktop Application Development
+
+---
+
+## 🚀 Future Improvements
+
+- Patient Search
+- Appointment Management
+- Doctor Panel
+- Medicine Tracking
+- PDF Reports
+- Charts & Analytics
+- Role-Based Authorization
+
+---
+
+## 👩‍💻 Developer
 
 **Beyzanur Aysel**
 
-🎓 Mersin Üniversitesi  
-**Bilişim Sistemleri ve Teknolojileri**
+Information Systems and Technologies
+
+Mersin University
 
 ---
 
-⭐ Bu proje, C# Windows Forms ve SQL Server kullanılarak geliştirilen masaüstü tabanlı bir hasta takip sistemidir.
+⭐ If you like this project, don't forget to leave a star.
