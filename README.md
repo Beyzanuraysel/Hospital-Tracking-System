@@ -9,8 +9,9 @@ This application allows users to manage patient records through a simple desktop
 ## 📸 Screenshots
 
 ### Login & Register
-
-![Login](screenshots/KayıtveGiriş.png)
+<p align="center">
+<img src="(screenshots/KayıtveGiriş.png)" width="800">
+</p>
 
 ### Patient Management
 
